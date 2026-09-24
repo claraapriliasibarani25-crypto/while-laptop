@@ -1,0 +1,11 @@
+def sapa():
+    print("halo semua")
+
+def sapa2(nama):
+    print("halo",nama)
+
+def sapa3(nama1,nama2):
+    print("halo",nama1,"dan",nama2)
+
+
+sapa3("kevin","awan")
